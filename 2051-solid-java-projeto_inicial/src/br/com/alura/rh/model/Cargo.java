@@ -1,6 +1,6 @@
 package br.com.alura.rh.model;
 
-public enum Cargo {
+public enum Cargo{
 
 	ASSISTENTE,
 	ANALISTA,
