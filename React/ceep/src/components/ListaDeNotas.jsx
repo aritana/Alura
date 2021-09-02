@@ -1,5 +1,5 @@
 import react, { Component } from "react"
-import CardNota from "./CardNota"
+import CardNota from "./CardNota/CardNota"
 
 
 class ListaDeNotas extends Component {
